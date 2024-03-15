@@ -31,16 +31,20 @@ Execute the main method in `app/src/main/java/app.java` to start the simulation.
 
 ## Visualizations
 Blackout has a dynamic visual aid to understand the simulation in action
+
 ![260898894](https://github.com/Biswas57/Blackout-Controller/assets/134140572/dadde40a-7cf7-48bf-9be9-e94519380c3f)
 
 - Satellites are visualized with orbits around Jupiter, showcasing their unique paths and coverage areas. You can observe their angular and linear velocities and how these factors contribute to their communication capabilities with devices on Jupiter's surface.
 - Unique to Blackout is the teleporting satellite which instantaneously moves across the simulation space, affecting ongoing data transfers and connectivity.
-  <img width="568" alt="Screenshot 2024-03-16 at 8 37 08 am" src="https://github.com/Biswas57/Blackout-Controller/assets/134140572/cf87bc1c-119f-42f3-ad7f-35454079d879">
+
+<img width="568" alt="Screenshot 2024-03-16 at 8 37 08 am" src="https://github.com/Biswas57/Blackout-Controller/assets/134140572/cf87bc1c-119f-42f3-ad7f-35454079d879">
 
 - The interactive interface highlights the communication range between devices and satellites. When a device is in range, a line connects it to the satellite, showing potential communication paths.
-  ![260898864](https://github.com/Biswas57/Blackout-Controller/assets/134140572/fd4a5d3f-a9f9-45e2-a65a-adac374d6d37)
+
+![260898864](https://github.com/Biswas57/Blackout-Controller/assets/134140572/fd4a5d3f-a9f9-45e2-a65a-adac374d6d37)
 
 - Visual cues indicate data transfer progress between devices and satellites. The gradual transfer of files is depicted through status bars, providing insights into bandwidth limitations and transfer speeds.
+
 ![260898870](https://github.com/Biswas57/Blackout-Controller/assets/134140572/4214a5fb-ce9a-485c-ac37-8a95d4560648)
 
 
